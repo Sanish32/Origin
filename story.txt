@@ -1,10 +1,11 @@
-Story of my life 
+UNI
 Story of my lifeStory of my lifeStory of my lifeStory of my lifeStory of 
 my lifeStory of my lifeStory of my lifeStory of my lifeStory of my 
 lifeStory of my lifeStory of my lifeStory of my lifeStory of my lifeStory 
 of my lifeStory of my lifeStory of my lifeStory of my lifeStory of my 
 lifeStory of my lifeStory of my lifeStory of my lifeStory of my lifeStory 
 of my lifeStory of my lifeStory of my lifeStory of my lifeStory of my 
+<<<<<<< HEAD
 lifeStory of my lifeStory of my lifeStory of my lifeStory of my lifeStory 
 of my lifeStory of my lifeStory of my lifeStory of my lifeStory of my 
 lifeStory of my lifeStory of my lifeStory of my lifeStory of my lifeStory 
@@ -17,3 +18,6 @@ lifeStory of my lifeStory of my lifeStory of my lifeStory of my lifeStory
 of my lifeStory of my lifeStory of my lifeStory of my lifeStory of my 
 
 fbosudfjkaskjfg;
+=======
+lifeStory of my lifeStory of my lifeStory of my lifeStory of my life
+>>>>>>> b8a213baf61f094f5375a68761c429be558eb6ea
